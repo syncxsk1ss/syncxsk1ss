@@ -7,9 +7,9 @@
  ; Contact: root@mood.wtf
 
 ## Lenguajes que uso
-<img src="https://skillicons.dev/icons?i=js,html,css,nodejs,ruby,bash,react,swift,typescript,php&theme=dark" />
+<img src="https://skillicons.dev/icons?i=js,html,css,nodejs,python,ruby,bash,react,swift,typescript,php&theme=dark" />
 </div>
 
 ## Aprendiendo
-<img src="https://skillicons.dev/icons?i=nextjs,python,matlab,lua&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nextjs,matlab,lua&theme=dark" />
 </div>
